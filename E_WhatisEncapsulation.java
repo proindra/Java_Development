@@ -39,7 +39,7 @@ class Human{
     }
 }
 
-public class encapsulation {
+public class E_WhatisEncapsulation {
     public static void main(String[] args) {
         Human obj = new Human("hi", 20);
         // obj.name = "John";

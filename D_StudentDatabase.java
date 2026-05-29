@@ -4,7 +4,7 @@ class student{
     int marks;
 }
 
-public class studentdata {
+public class D_StudentDatabase {
     public static void main(String[] args) {
         student student1 = new student();
         student1.rollno = 1;

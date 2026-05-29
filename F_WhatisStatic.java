@@ -15,7 +15,7 @@ class Mobile{
     }
 }
 
-public class Whatisstatic {
+public class F_WhatisStatic {
     public static void main(String[] args) {
         Mobile mobile1 = new Mobile("iPhone 13", 999);
         Mobile mobile2 = new Mobile("iPhone 14", 1099);
