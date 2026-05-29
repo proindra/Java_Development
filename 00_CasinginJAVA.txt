@@ -1,0 +1,13 @@
+Camel casing not sanke casing
+
+class and interface - Calc(for Calculator) , Runable 
+variables and methods - marks , show()
+constants - PIE , BRAND
+
+for more than two words
+showMyMarks()
+
+for example 
+age - variable
+MY_DATA - constants
+Human() - contructor
