@@ -1,0 +1,1 @@
+JAVA does not support multi inheritance due to Ambiguity
