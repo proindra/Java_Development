@@ -2,4 +2,4 @@ Point 1: JAVA does not support multi inheritance due to Ambiguity
 Point 2: In inheritance when obj created it will call both contructor of SUBCLASS and SUPERCLASS.
 Point 3: (ConstructorwithParameters.java) see By default there will be a super() in the constructor of the child class. If we want to call the parameterized constructor of the parent class, then we have to explicitly call it using super(parameters) in the constructor of the child class.
 Point 4: Every class in java extends OBJECT class.
-Point 5: (ConstructorwithParameters.java) this() will execute the construct of the same class if we want all four to be runed.
+Point 5: (ConstructorwithParameters.java) this() will execute the constructor of the same class if we want all four to be runed.
