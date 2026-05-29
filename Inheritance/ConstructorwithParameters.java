@@ -1,3 +1,5 @@
+package Inheritance;
+
 //By default there will be a super() in the constructor of the child class. If we want to call the parameterized constructor of the parent class, then we have to explicitly call it using super(parameters) in the constructor of the child class.
 class A{
     public A(){ // Default constructor

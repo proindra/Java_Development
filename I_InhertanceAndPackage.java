@@ -1,4 +1,6 @@
-public class Demo {
+import Inheritance.VeryAdvCalc;
+
+public class I_InhertanceAndPackage {
     public static void main(String a[]){
         VeryAdvCalc obj = new VeryAdvCalc();
         
