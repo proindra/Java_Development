@@ -18,8 +18,9 @@ class B extends A{
     }
 
     public B(int n){
+        // super();
         // super(n);
-        this();
+        // this();
         System.out.println("in B int");
     }
 }
