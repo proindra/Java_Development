@@ -40,6 +40,7 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `UB_ThrowInException.java` | `throw` keyword — manually throwing exceptions with custom message, custom condition-based throw |
 | `UC_CustomException.java` | Custom exceptions — extending `Exception`, custom exception class with constructor |
 | `V_UserInput.java` | User input — `Scanner`, `nextInt()`, reading from `System.in` |
+| `W_threading.java` | Multithreading — `Thread` class, `extends Thread`, `run()`, `start()`, concurrent execution |
 
 ### Inheritance Package (`Inheritance/`)
 
