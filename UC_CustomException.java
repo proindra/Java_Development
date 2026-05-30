@@ -1,19 +1,25 @@
-public class UB_ThrowAndThrows{
+class IndraException extends Exception{
+    public IndraException(String message){
+        super(message);
+    }
+}
+
+public class UC_CustomException{
     public static void main(String a[]){
 
-        int i = 0;
+        int i = 20;
         int j = 0;
 
         try
         {
             j = 18/i;
             if(j==0)
-                throw new ArithmeticException("i dont want to throw zero");
+                throw new IndraException("i dont want to throw zero");
         }
-        catch(ArithmeticException e)
+        catch(IndraException e)
         {
             j = 18/1;
-            System.out.println("this is default output");
+            System.out.println("this is default output" + e);
         }
         catch(Exception e) 
         {

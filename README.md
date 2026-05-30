@@ -37,7 +37,8 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `TA_FunctionalInterfaceWithLambaExpression.java` | Functional interface with lambda expression — lambda syntax, parameter passing |
 | `U_Exceptions.java` | Exception handling basics — `try`, `catch`, `Exception` class |
 | `UA_MultiExceptions.java` | Multiple catch blocks — `ArithmeticException`, `ArrayIndexOutOfBoundsException`, parent exception ordering |
-| `UB_ThrowAndThrows.java` | `throw` keyword — manually throwing exceptions with custom message |
+| `UB_ThrowInException.java` | `throw` keyword — manually throwing exceptions with custom message, custom condition-based throw |
+| `UC_CustomException.java` | Custom exceptions — extending `Exception`, custom exception class with constructor |
 
 ### Inheritance Package (`Inheritance/`)
 
@@ -116,4 +117,4 @@ java I_InhertanceAndPackage
 ## Course
 
 **Complete Java Development: Spring Boot, Microservices, Spring AI**  
-Topics ahead: Collections, Generics, Spring Boot, Microservices, Spring AI
+Topics ahead: Collections, Generics, Threads, Spring Boot, Microservices, Spring AI
