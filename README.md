@@ -42,6 +42,7 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `V_UserInput.java` | User input — `Scanner`, `nextInt()`, reading from `System.in` |
 | `W_threading.java` | Multithreading — `Thread` class, `extends Thread`, `run()`, `start()`, concurrent execution |
 | `WA_PriorityThreading.java` | Thread priority — `getPriority()`, `setPriority()`, `Thread.MAX_PRIORITY`, `Thread.sleep()` |
+| `WB_RunnableVSThreading.java` | `Runnable` interface — `implements Runnable`, passing `Runnable` to `Thread`, allows class to extend other classes |
 
 ### Inheritance Package (`Inheritance/`)
 
