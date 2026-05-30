@@ -35,10 +35,11 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `SB_EnumerationWithClassConstructor.java` | Enum with constructor and fields — private field, constructor, getter method |
 | `T_FunctionalInterface.java` | Functional interface — `@FunctionalInterface`, anonymous class implementation |
 | `TA_FunctionalInterfaceWithLambaExpression.java` | Functional interface with lambda expression — lambda syntax, parameter passing |
-| `U_Exceptions.java` | Exception handling basics — `try`, `catch`, `Exception` class |
+| `U_Exceptions.java` | Exception handling basics — `try`, `catch`, `finally`, `Exception` class |
 | `UA_MultiExceptions.java` | Multiple catch blocks — `ArithmeticException`, `ArrayIndexOutOfBoundsException`, parent exception ordering |
 | `UB_ThrowInException.java` | `throw` keyword — manually throwing exceptions with custom message, custom condition-based throw |
 | `UC_CustomException.java` | Custom exceptions — extending `Exception`, custom exception class with constructor |
+| `V_UserInput.java` | User input — `Scanner`, `nextInt()`, reading from `System.in` |
 
 ### Inheritance Package (`Inheritance/`)
 

@@ -12,6 +12,10 @@ public class U_Exceptions{
         {
             System.out.println("Something went wrong" + e);
         }
+        finally
+        {
+            System.out.println("This will always execute");
+        }
         
 
         System.out.println(j);
