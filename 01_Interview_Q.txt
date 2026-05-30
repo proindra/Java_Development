@@ -3,6 +3,10 @@ Point 1: java by default imports {  java.lang.System  }
 Point 2: Polymorphism - There are two types of polymorphism:
 To stop use final keyword to methods see l_finalKeyword.java
 
+Point 3: We cannot create object of abstract class but we can create reference of abstract class and assign it to the object of subclass.
+
+Point 4: Abtract class can have all normal methods also.
+
 
 1. Method Overloading (Compile time polymorphism)
 
