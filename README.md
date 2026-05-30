@@ -28,7 +28,9 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `QA_InnerClassWithStatic.java` | Static inner class — `static` with inner class, `A.B` instantiation |
 | `QB_AnonymousInnerClass.java` | Anonymous inner class — overriding methods inline |
 | `QC_AnonymousInnerClassWithAbtract.java` | Anonymous inner class with abstract class |
-| `R_Interface.java` | Interfaces *(in progress)* |
+| `R_Interface.java` | Interfaces — `interface`, `implements`, constants (`public static final`), interface variables |
+| `RA_Interfaceplus.java` | Interface advanced — multiple interface implementation, `interface extends interface` |
+| `S_Enumeration.java` | Enumerations — `enum` keyword |
 
 ### Inheritance Package (`Inheritance/`)
 
@@ -45,13 +47,13 @@ A hands-on practice repository following the **Complete Java Development: Spring
 
 | File | Topic |
 |------|-------|
-| `A.java` | Access modifier demo across packages |
-| `JB.java` | Default (package-private) access modifier demo |
+| `A.java` | `public` access modifier — accessible from any package |
 
 ### Notes & Reference Files
 
 | File | Topic |
 |------|-------|
+| `JB.java` | Default (package-private) access modifier demo |
 | `00_CasinginJAVA.txt` | Java naming conventions — camelCase for variables/methods, PascalCase for classes, UPPER_SNAKE_CASE for constants |
 | `01_Interview_Q.txt` | Interview Q&A — polymorphism (overloading vs overriding), abstract class rules, default imports |
 | `Inheritance/00_Interview_Q.txt` | Interview Q&A — multiple inheritance, constructor chaining, `super()`, `this()`, `Object` class |
@@ -107,4 +109,4 @@ java I_InhertanceAndPackage
 ## Course
 
 **Complete Java Development: Spring Boot, Microservices, Spring AI**  
-Topics ahead: Interfaces, Exception Handling, Collections, Generics, Spring Boot, Microservices, Spring AI
+Topics ahead: Exception Handling, Collections, Generics, Spring Boot, Microservices, Spring AI
