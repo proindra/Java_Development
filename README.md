@@ -24,7 +24,11 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `N_TypeCasting.java` | Upcasting and downcasting |
 | `O_WapperClass.java` | Wrapper classes, autoboxing, unboxing, `Integer.parseInt()` |
 | `P_AbtrackKeyword.java` | Abstract classes and abstract methods |
-| `Q_InnerClass.java` | Inner classes *(in progress)* |
+| `Q_InnerClass.java` | Inner classes — non-static inner class, accessing outer members |
+| `QA_InnerClassWithStatic.java` | Static inner class — `static` with inner class, `A.B` instantiation |
+| `QB_AnonymousInnerClass.java` | Anonymous inner class — overriding methods inline |
+| `QC_AnonymousInnerClassWithAbtract.java` | Anonymous inner class with abstract class |
+| `R_Interface.java` | Interfaces *(in progress)* |
 
 ### Inheritance Package (`Inheritance/`)
 
@@ -42,6 +46,7 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | File | Topic |
 |------|-------|
 | `A.java` | Access modifier demo across packages |
+| `JB.java` | Default (package-private) access modifier demo |
 
 ### Notes & Reference Files
 
@@ -102,4 +107,4 @@ java I_InhertanceAndPackage
 ## Course
 
 **Complete Java Development: Spring Boot, Microservices, Spring AI**  
-Topics ahead: Inner Classes, Interfaces, Exception Handling, Collections, Generics, Spring Boot, Microservices, Spring AI
+Topics ahead: Interfaces, Exception Handling, Collections, Generics, Spring Boot, Microservices, Spring AI

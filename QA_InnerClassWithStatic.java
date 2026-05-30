@@ -1,3 +1,4 @@
+// Static can be used with inner class but not with method and variable of outer class
 class A{
 
     int age;
@@ -6,7 +7,7 @@ class A{
         System.out.println("in show");
     }
 
-    class B{
+    static class B{
         public void config(){
             System.out.println("in config");
         }
@@ -15,12 +16,12 @@ class A{
 
 
 
-public class Q_InnerClass {
+public class QA_InnerClassWithStatic {
     public static void main(String a[]){
         A obj = new A();
         obj.show();
 
-        A.B obj1 = obj.new B();
+        A.B obj1 = new A.B();
         obj1.config();
     }
     
