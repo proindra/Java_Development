@@ -27,12 +27,14 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `Q_InnerClass.java` | Inner classes — non-static inner class, accessing outer members |
 | `QA_InnerClassWithStatic.java` | Static inner class — `static` with inner class, `A.B` instantiation |
 | `QB_AnonymousInnerClass.java` | Anonymous inner class — overriding methods inline |
-| `QC_AnonymousInnerClassWithAbtract.java` | Anonymous inner class with abstract class |
+| `QC_AnonymousInnerClassWithAbstract.java` | Anonymous inner class with abstract class |
 | `R_Interface.java` | Interfaces — `interface`, `implements`, constants (`public static final`), interface variables |
 | `RA_Interfaceplus.java` | Interface advanced — multiple interface implementation, `interface extends interface` |
 | `S_Enumeration.java` | Enumerations — `enum` keyword |
 | `SA_EnumerationWithSwitch.java` | Enum with `switch` statement, `ordinal()`, superclass via `getClass().getSuperclass()` |
 | `SB_EnumerationWithClassConstructor.java` | Enum with constructor and fields — private field, constructor, getter method |
+| `T_FunctionalInterface.java` | Functional interface — `@FunctionalInterface`, anonymous class implementation |
+| `TA_FunctionalInterfaceWithLambaExpression.java` | Functional interface with lambda expression — lambda syntax, parameter passing |
 
 ### Inheritance Package (`Inheritance/`)
 

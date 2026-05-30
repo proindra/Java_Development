@@ -10,6 +10,7 @@ Point 4: Abtract class can have all normal methods also.
 Point 5: Static can be used with inner class but not with method and variable of outer class (see QA_InnerClassWithStatic.java).
 
 Point 6: @overide is a Annotation. It will help u to debug the code at compile time.
+like @FunctionalInterface , @Debricated etc
 
 1. Method Overloading (Compile time polymorphism)
 
