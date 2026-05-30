@@ -32,6 +32,7 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `RA_Interfaceplus.java` | Interface advanced — multiple interface implementation, `interface extends interface` |
 | `S_Enumeration.java` | Enumerations — `enum` keyword |
 | `SA_EnumerationWithSwitch.java` | Enum with `switch` statement, `ordinal()`, superclass via `getClass().getSuperclass()` |
+| `SB_EnumerationWithClassConstructor.java` | Enum with constructor and fields — private field, constructor, getter method |
 
 ### Inheritance Package (`Inheritance/`)
 
