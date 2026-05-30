@@ -35,6 +35,9 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `SB_EnumerationWithClassConstructor.java` | Enum with constructor and fields — private field, constructor, getter method |
 | `T_FunctionalInterface.java` | Functional interface — `@FunctionalInterface`, anonymous class implementation |
 | `TA_FunctionalInterfaceWithLambaExpression.java` | Functional interface with lambda expression — lambda syntax, parameter passing |
+| `U_Exceptions.java` | Exception handling basics — `try`, `catch`, `Exception` class |
+| `UA_MultiExceptions.java` | Multiple catch blocks — `ArithmeticException`, `ArrayIndexOutOfBoundsException`, parent exception ordering |
+| `UB_ThrowAndThrows.java` | `throw` keyword — manually throwing exceptions with custom message |
 
 ### Inheritance Package (`Inheritance/`)
 
@@ -113,4 +116,4 @@ java I_InhertanceAndPackage
 ## Course
 
 **Complete Java Development: Spring Boot, Microservices, Spring AI**  
-Topics ahead: Exception Handling, Collections, Generics, Spring Boot, Microservices, Spring AI
+Topics ahead: Collections, Generics, Spring Boot, Microservices, Spring AI
