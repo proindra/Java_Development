@@ -43,6 +43,14 @@ A hands-on practice repository following the **Complete Java Development: Spring
 |------|-------|
 | `A.java` | Access modifier demo across packages |
 
+### Notes & Reference Files
+
+| File | Topic |
+|------|-------|
+| `00_CasinginJAVA.txt` | Java naming conventions — camelCase for variables/methods, PascalCase for classes, UPPER_SNAKE_CASE for constants |
+| `01_Interview_Q.txt` | Interview Q&A — polymorphism (overloading vs overriding), abstract class rules, default imports |
+| `Inheritance/00_Interview_Q.txt` | Interview Q&A — multiple inheritance, constructor chaining, `super()`, `this()`, `Object` class |
+
 ---
 
 ## Key Concepts & Notes
@@ -53,7 +61,7 @@ A hands-on practice repository following the **Complete Java Development: Spring
 - Polymorphism — method overloading (compile-time) and overriding (runtime)
 - Abstraction — abstract classes with abstract and concrete methods
 
-**Important interview points covered (`01_Interview_Q.txt`):**
+**Important interview points covered:**
 - Java does not support multiple inheritance due to ambiguity
 - Every class in Java implicitly extends `Object`
 - `super()` is implicitly called in every child constructor
