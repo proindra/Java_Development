@@ -31,6 +31,7 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `R_Interface.java` | Interfaces — `interface`, `implements`, constants (`public static final`), interface variables |
 | `RA_Interfaceplus.java` | Interface advanced — multiple interface implementation, `interface extends interface` |
 | `S_Enumeration.java` | Enumerations — `enum` keyword |
+| `SA_EnumerationWithSwitch.java` | Enum with `switch` statement, `ordinal()`, superclass via `getClass().getSuperclass()` |
 
 ### Inheritance Package (`Inheritance/`)
 

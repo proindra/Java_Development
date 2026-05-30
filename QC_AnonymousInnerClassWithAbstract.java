@@ -6,7 +6,7 @@ abstract class A{
     }
 }
 
-public class QC_AnonymousInnerClassWithAbtract {
+public class QC_AnonymousInnerClassWithAbstract {
     public static void main(String a[]){
         A obj = new A()
         {
