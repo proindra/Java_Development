@@ -41,6 +41,7 @@ A hands-on practice repository following the **Complete Java Development: Spring
 | `UC_CustomException.java` | Custom exceptions — extending `Exception`, custom exception class with constructor |
 | `V_UserInput.java` | User input — `Scanner`, `nextInt()`, reading from `System.in` |
 | `W_threading.java` | Multithreading — `Thread` class, `extends Thread`, `run()`, `start()`, concurrent execution |
+| `WA_PriorityThreading.java` | Thread priority — `getPriority()`, `setPriority()`, `Thread.MAX_PRIORITY`, `Thread.sleep()` |
 
 ### Inheritance Package (`Inheritance/`)
 
