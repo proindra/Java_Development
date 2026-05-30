@@ -1,8 +1,10 @@
 Point 1: java by default imports {  java.lang.System  }
 
-Point 2:
+Point 2: Polymorphism - There are two types of polymorphism:
+To stop use final keyword to methods see l_finalKeyword.java
 
-1. Method Overloading
+
+1. Method Overloading (Compile time polymorphism)
 
 Same method name, different parameters, in the same class.
 
@@ -39,7 +41,7 @@ Different parameter list
 Same class
 
 
-2. Method Overriding
+2. Method Overriding (Runtime polymorphism)
 
 Child class provides its own implementation of a method already defined in the parent class.
 
